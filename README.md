@@ -2,11 +2,11 @@
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2026/09/Build-Multi-Tenant-AI-Voice-Receptionist-for-Hospitals-Real-Estate-Local-Shops-Appointment-Bookig-System.jpg)
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-multi-tenant-ai-voice-receptionist-for-hospitals-real-estate-and-local-shops-+-appointment-bookig-system-using-nextjs)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/f61j4ExLAPs?si=HQsKthz410zY2Yns)
 
 ## Project Overview
 
